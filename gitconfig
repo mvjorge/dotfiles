@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jmontenegrocip@gmail.com
+	name = jorge montenegro
